@@ -7,10 +7,10 @@ $(document).ready(function(){
     $(".d").css({"display":"none"});
   }
   $(".c").on("click",function(){
-      move(50);
+      move(20);
   });
   $(".d").on("click",function(){
-      move(-50);
+      move(-20);
   });
 });
 function move(num){

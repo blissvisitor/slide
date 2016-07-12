@@ -5,13 +5,13 @@
 .a{
 	width:45px;
 	height:100%;
-	background-color:gray;
+	background-color:white;
 	overflow-y:hidden;
 }
 .b{
-width:30px;
-height:500px;
-background-color:green;
+width:26px;
+height:260px;
+background:url(../images/slide.png) no-repeat center;
 margin:0px auto;
 }
 .c{
